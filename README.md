@@ -1,5 +1,7 @@
 # Intelligent_wildlife_tracking-_system#
 
+Developed an algorithm for transmitting the data over a shortest path to the server. The aim was to track the animals’ locations in sanctuaries and jungles using Wi-Fi Devices eliminating the cost of GPS and GSM technologies. And then the location of an animal can be seen on the tablets using the android app. This project was sponsored by Persistent Systems.
+
 You will need following components to run this project:-
 1. First read what the project is about.
 2. Then you will need 3 ESP8266 wifi module (which costs about $5 each) and download it's drivers from https://cityos-air.readme.io/docs/1-usb-drivers-for-nodemcu-v10
